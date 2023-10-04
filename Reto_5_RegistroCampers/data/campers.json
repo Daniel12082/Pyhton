@@ -1,0 +1,19 @@
+{
+    "datos": [
+        {
+            "Nombre": "DANIEL",
+            "Apellidos": "DIAZ",
+            "Edad": 17,
+            "Id": 1096701029,
+            "Email": "DANIE  ",
+            "Ciudad de origen": "",
+            "Estado civil": "SOLTERO",
+            "Genero": "M",
+            "Nro Telefonico": 3173669754,
+            "acudiente": {
+                "Nombre:": "ADRIANA",
+                "Parentesco: ": "MADRE"
+            }
+        }
+    ]
+}
