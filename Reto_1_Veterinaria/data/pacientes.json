@@ -1,0 +1,12 @@
+{
+    "datos": [
+        {
+            "NombreP": "MILU",
+            "Edad": 15,
+            "NombreD": "JUAN",
+            "Tipo": "Gato",
+            "Raza": "Siameses",
+            "id": "001"
+        }
+    ]
+}

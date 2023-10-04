@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "id": "0001",
+            "area": {
+                "area": "Training",
+                "lugar": {
+                    "fecha": "14/07/2023",
+                    "categoria": "Hardware",
+                    "lugar": "Artemis",
+                    "incidencia": "cvsacasd",
+                    "idPc": 0,
+                    "idTrainer": {
+                        "idTrainer": "120",
+                        "nombre": "sfdasd"
+                    }
+                }
+            }
+        },
+        {
+            "id": "0002",
+            "area": {
+                "area": "Review",
+                "lugar": {
+                    "fecha": "14/07/2023",
+                    "categoria": "Software",
+                    "lugar": "Corvus",
+                    "incidencia": "0saxsaxa",
+                    "idPc": 0,
+                    "idTrainer": {
+                        "idTrainer": "1142",
+                        "nombre": "fgsdf"
+                    }
+                }
+            }
+        }
+    ]
+}

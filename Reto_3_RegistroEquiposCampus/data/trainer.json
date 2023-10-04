@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "id": "001",
+            "nombre": "Daniel",
+            "emailP": "kdfmkasd",
+            "email": "sdasda",
+            "telefono": 545,
+            "telefonoR": 3232,
+            "telefonoE": 323,
+            "telefonoM": 454
+        },
+        {
+            "id": "002",
+            "nombre": "yolbert",
+            "emailP": "darkvider",
+            "email": "dadraeje@njndfjafa",
+            "telefono": 12235445,
+            "telefonoR": 23323,
+            "telefonoE": 3233214,
+            "telefonoM": 323232
+        },
+        {
+            "id": "120",
+            "nombre": "sfdasd",
+            "emailP": "asdsad",
+            "email": "asdsada",
+            "telefono": 32323,
+            "telefonoR": 32541451,
+            "telefonoE": 212131,
+            "telefonoM": 23122156
+        },
+        {
+            "id": "1142",
+            "nombre": "fgsdf",
+            "emailP": "asdsad",
+            "email": "sdsad",
+            "telefono": 32325,
+            "telefonoR": 323296,
+            "telefonoE": 65648,
+            "telefonoM": 3232
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "id": "100",
+            "nombre": "pan",
+            "cantidad": 0,
+            "stockMin": 12,
+            "stockMax": 500,
+            "valorCompra": 200.0,
+            "valorVenta": 144.0,
+            "estado": true
+        },
+        {
+            "id": "0555",
+            "nombre": "fdasda",
+            "cantidad": 0,
+            "stockMin": 15,
+            "stockMax": 65,
+            "valorCompra": 500.0,
+            "valorVenta": 211.0,
+            "estado": true
+        }
+    ]
+}

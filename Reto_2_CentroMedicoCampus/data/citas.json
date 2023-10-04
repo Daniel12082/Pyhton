@@ -1,0 +1,10 @@
+{
+    "data": [
+        {
+            "nombre_paciente": "fdasdsa",
+            "fecha_cita": "13/12/2005",
+            "hora_cita": "12:02",
+            "motivo_consulta": "ADFASDA"
+        }
+    ]
+}
